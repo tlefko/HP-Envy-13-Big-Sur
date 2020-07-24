@@ -60,6 +60,11 @@ This build is compatible up to Big Sur Beta
  # Headphones and Audio
  - All audio from speakers should work perfectly along with Bluetooth and USB audio
  
+ # Credits
+ - MaLd0n for DSDT Patches (HUGE SHOUTOUT)
+ - Original Kext Authors
+ - Clover Team
+ 
  # Finished!
  - Congratulations, there really aren't any more steps that are required. Feel free to contact me with any questions. 
 
