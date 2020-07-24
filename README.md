@@ -64,4 +64,4 @@ This build is compatible up to Big Sur Beta
  - Congratulations, there really aren't any more steps that are required. Feel free to contact me with any questions. 
 
 # Donations 
-- Send me a coffee lefkotyler@gmail.com
+- Send me a coffee/beer lefkotyler@gmail.com
