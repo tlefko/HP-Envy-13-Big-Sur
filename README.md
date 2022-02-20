@@ -69,4 +69,5 @@ This build is compatible up to Big Sur Beta
  - Congratulations, there really aren't any more steps that are required. Feel free to contact me with any questions. 
 
 # Donations 
-- Send me a coffee/beer lefkotyler@gmail.com
+- ***Send me a coffee/beer***
+- https://www.paypal.com/donate/?business=LG87NZSPQGFMS&no_recurring=0&currency_code=CAD
